@@ -1,0 +1,17 @@
+Name : Anirudha Paul
+ID : 1410091042
+
+Programming Language : C++ 11
+
+Additional Instruction:
+
+About Wumpus Rules:
+
+     Rule 1,2,3,4,5,6 are explicitly defined in this rule and other rules are already covered 
+
+About This Build:
+	This build is complete . Command line argument is implemented here . Given template has not been used here due to lack of proper documentation and implementation problem.
+So entire code is writtend from scratch.
+
+Command line argument:
+	check_true_false wumpus_rules.txt additional_knowledge.txt statement_file.txt
