@@ -1,0 +1,12 @@
+Name : Anirudha Paul
+ID : 1410091042
+
+Programming Language : C++ 11
+
+Additional Instruction:
+
+Command line argument:
+	exefile [training_file] [test_file] [optimized/randomized/forest3/forest15]
+
+*Takes a bit time but not more than 1 Minute
+*Proper Exception handling is not present for spelling or other mistakes. So input carefully 
